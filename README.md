@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Raghav Lathi (@Nub-Raghav)
+# 👋 Hi, I’m Raghav Lathi (@0xraghavv)
 
 ## 👀 About Me
 - A passionate **blockchain developer** with hands-on experience in building **smart contracts** and **dApps** 🔐
