@@ -1,5 +1,4 @@
-# 👋 Hi, I’m Raghav Lathi (@0xraghavv)
-
+# 👋 Hi, I’m Raghav Lathi 
 ## 👀 About Me
 - A passionate **blockchain developer** with hands-on experience in building **smart contracts** and **dApps** 🔐
 - Enthusiastic about **Decentralized Finance (DeFi)** 💸 and eager to learn about innovative financial solutions using blockchain technology.
